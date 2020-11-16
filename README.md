@@ -1,27 +1,27 @@
-### Hi there 👋
+![capa github](https://github.com/mindblows/mindblows/blob/main/images/capa-gmatias.png)
+
 
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindblows&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mindblows&theme=buefy"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindblows&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mindblows&theme=dark"/></td>
     </tr>   
 </table>
 </center>
 
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/mindblows/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)
 
-<!--
-**mindblows/mindblows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Seja bem vindo! 👋
 
-Here are some ideas to get you started:
+Sou aluno do 10º período de engenharia eletrônica da UTFPR e entusiasta do mundo da programação. Sempre em busca de aprimorar minhas habilidades e, adquirir mais experiência e conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="mailto:gmatias1793@gmail.com"><img src="https://github.com/mindblows/mindblows/blob/main/images/email.png" width="16"></img></a> [Email](mailto:gmatias1793@gmail.com)
+<a href="https://www.linkedin.com/in/gabriel-silva-5a58201a2/"><img src="https://github.com/mindblows/mindblows/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-silva-5a58201a2/)
+<a href="https://www.instagram.com/gmatiass/"><img src="https://github.com/mindblows/mindblows/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/gmatiass)
+
+![](https://komarev.com/ghpvc/?username=mindblows&color=red&style=flat)
+---
+
+
