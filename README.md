@@ -18,7 +18,7 @@ Sou aluno do 10º período de engenharia eletrônica da UTFPR e entusiasta do mu
 ---
 
 <a href="mailto:gmatias1793@gmail.com"><img src="https://github.com/mindblows/mindblows/blob/main/images/email.png" width="16"></img></a> [Email](mailto:gmatias1793@gmail.com)
-<a href="https://www.linkedin.com/in/gabriel-silva-5a58201a2/"><img src="https://github.com/mindblows/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-silva-5a58201a2/)
+<a href="https://www.linkedin.com/in/gabriel-silva-5a58201a2/"><img src="https://github.com/mindblows/mindblows/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-silva-5a58201a2/)
 <a href="https://www.instagram.com/gmatiass/"><img src="https://github.com/mindblows/mindblows/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/gmatiass)
 
 ![](https://komarev.com/ghpvc/?username=mindblows&color=red&style=flat)
