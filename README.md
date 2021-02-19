@@ -13,7 +13,10 @@
 
 ### Olá! Seja bem vindo! 👋
 
-Sou aluno do 10º período de engenharia eletrônica da UTFPR e entusiasta do mundo da programação. Sempre em busca de aprimorar minhas habilidades e adquirir mais experiência e conhecimento.
+Cursei Engenharia Eletrônica na UTFPR onde tive meus primeiros contatos com programação nas linguagens C e C++. 
+Durante a graduação desenvolvi projetos na área de sistemas embarcados e microcontroladores. Porém, durante esse tempo me aventurei pelo mundo do desenvolvimento web, o qual gosto bastante. Desenvolvimento de API em node.js tem sido meu foco de estudo.
+
+Tenho conhecimento nas linguagens: C, C++, Java, C#, JavaScript e TypeScript. 
 
 ---
 <a href="https://www.instagram.com/gmatiass/"><img width="50px" src="https://github.com/mindblows/mindblows/blob/main/images/instagram.svg" width="16" align="right"></img></a>
