@@ -2,7 +2,7 @@
 
 ### Olá! Seja bem vindo! 👋
 
-Cursei Engenharia Eletrônica na UTFPR onde tive meus primeiros contatos com programação nas linguagens C e C++. Durante a graduação desenvolvi projetos na área de sistemas embarcados e microcontroladores.
+Cursei Engenharia Eletrônica na UTFPR onde tive meus primeiros contatos com programação nas linguagens C e C++. Durante a graduação desenvolvi projetos na área de sistemas embarcados.
 Contudo, durante esse tempo me aventurei pelo mundo do desenvolvimento web. Desenvolvimento em Node.js tem sido meu foco de estudo.
 
 Skills: Java, C#, JavaScript e TypeScript. 
