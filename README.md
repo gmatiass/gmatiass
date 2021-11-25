@@ -17,7 +17,7 @@ Graduated in Electronic Engineering at the Federal Technological University of P
 
 Nowadays I work in development and maintenance of a ERP system (Oracle PL/SQL) in a team that uses agile methodologies with Scrum and Kanban. However, I love webdev and now I'm focused in learning .Net and Node.js, looking for more experience (and a job in webdev 🙃).
 
-<b>Stack:</b> C# - .NET Framework - .NET Core - ASP.NET MVC - ASP.NET Core - TypeScript - Oracle PL/SQL - HTML / CSS / JS.
+<b>Stack:</b> C# - TypeScript - .NET Framework - .NET Core - ASP.NET MVC - ASP.NET Core - Node.js - Oracle PL/SQL - HTML / CSS / JS.
 
 ---
 
