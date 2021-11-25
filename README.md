@@ -19,8 +19,6 @@ Nowadays I work in development and maintenance of a ERP system (Oracle PL/SQL) i
 
 <b>Stack:</b> C# - .NET Framework - .NET Core - ASP.NET MVC - ASP.NET Core - EF Framework - EF Core - TypeScript - Oracle PL/SQL - HTML / CSS / JS.
 
----
-
 <br />
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmatiass&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
