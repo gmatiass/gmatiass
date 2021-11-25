@@ -1,6 +1,6 @@
-![capa github](https://github.com/mindblows/mindblows/blob/main/images/capa-gmatias.png)
+![header](https://github.com/mindblows/mindblows/blob/main/images/capa-gmatias.png)
 
-## Hello there! 👋
+## Hello there! 👋 
 
 Here's a little about me.
 
