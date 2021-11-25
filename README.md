@@ -8,12 +8,9 @@ Contudo, durante esse tempo me aventurei pelo mundo do desenvolvimento web. Dese
 <b>Skills:</b> Oracle Forms, PL/SQL, C# e TypeScript. 
 
 ---
-<a href="https://www.instagram.com/gmatiass/"><img width="50px" src="https://github.com/mindblows/mindblows/blob/main/images/instagram.svg" width="16" align="right"></img></a>
+<a href="https://www.instagram.com/gmatiass/"><img width="35px" src="https://github.com/mindblows/mindblows/blob/main/images/instagram.svg" width="16" align="right"></img></a>
 
-<a href="https://www.linkedin.com/in/gabriel-silva-5a58201a2/"><img width="50px" src="https://github.com/mindblows/mindblows/blob/main/images/linkedin.svg" width="16" align="right"></img></a><br />
+<a href="https://www.linkedin.com/in/gabriel-silva-5a58201a2/"><img width="35px" src="https://github.com/mindblows/mindblows/blob/main/images/linkedin.svg" width="16" align="right"></img></a><br />
 <div align="right">
 Ícones feitos por <a href="https://www.flaticon.com/br/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> de <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a>
 </div>
-
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-silva-5a58201a2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-silva-5a58201a2?trk=profile-badge">Gabriel Silva</a></div>
