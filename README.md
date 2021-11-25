@@ -11,8 +11,6 @@
 
 ## Hello, folks!
 
----
-
 My name is Gabriel Matias. I currently live in Paraná, Brazil.
 
 Graduated in Electronic Engineering at the Federal Technological University of Paraná. I worked on projects in the field of embedded systems and microcontrollers.
