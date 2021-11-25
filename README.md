@@ -16,4 +16,4 @@ Contudo, durante esse tempo me aventurei pelo mundo do desenvolvimento web. Dese
 </div>
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-silva-5a58201a2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-silva-5a58201a2?trk=profile-badge">Gabriel Silva</a></div>
