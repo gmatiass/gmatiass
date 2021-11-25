@@ -1,7 +1,7 @@
 <a href="www.linkedin.com/in/gmatiass">
   <span>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </span>
+ </span>
 </a>
 <a href="https://www.instagram.com/gmatiass">
   <span>
