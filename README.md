@@ -17,7 +17,7 @@ Graduated in Electronic Engineering at the Federal Technological University of P
 
 My first job was in the development and maintenance of an ERP based on Oracle PL/SQL and using agile scrum methodology. I also worked on integration projects with C#.
 
-Nowadays I work as a backend developer of e-commerces and I'm focused in improve my skills in Node.js with Typescript, MongoDB, Express, Inversify, Mongoose, JWT, DDD, TDD, Docker, Git, Git Flow and Pipelines CI/CD. I'm also learning some frontend tecnologies like React and Next.js.
+Nowadays I work as a backend developer of e-commerces and I'm focused in improve my skills in Node.js with Typescript, MongoDB, Express, Inversify, Mongoose, JWT, DDD, TDD, Redis, Docker, Git, Git Flow and Pipelines CI/CD. I'm also learning some frontend tecnologies like React and Next.js.
 
 <b>Stack:</b> Node.js / JS / TS - HTML / CSS - Oracle PL/SQL.
 
