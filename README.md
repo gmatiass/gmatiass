@@ -15,9 +15,11 @@ My name is Gabriel Matias. I currently live in Paraná, Brazil.
 
 Graduated in Electronic Engineering at the Federal Technological University of Paraná. I worked on projects in the field of embedded systems and microcontrollers.
 
-Nowadays I work in development and maintenance of a ERP system (Oracle PL/SQL) in a team that uses agile methodologies with Scrum and Kanban. However, I love webdev and now I'm focused in learning .NET and Node.js, looking for more experience (and a job in webdev 🙃).
+My first job was in the development and maintenance of an ERP based on Oracle PL/SQL and using agile scrum methodology. I also worked on integration projects with C#.
 
-<b>Stack:</b> .NET / C# - Node.js / JS / TS - Oracle PLSQL - HTML / CSS.
+Nowadays I work as a backend developer of e-commerces and I'm focused in improve my skills in Node.js with Typescript, MongoDB, Express, Inversify, Mongoose, JWT, DDD, TDD, Docker, Git, Git Flow and Pipelines CI/CD. I'm also learning some frontend tecnologies like React and Next.js.
+
+<b>Stack:</b> Node.js / JS / TS - HTML / CSS - Oracle PL/SQL.
 
 ---
 
