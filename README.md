@@ -15,7 +15,7 @@ My name is Gabriel Matias. I currently live in Paraná, Brazil.
 
 My first job was developing and maintaining an ERP based on Oracle PL/SQL and integration projects with C#.
 
-Nowadays I work as a back-end and DevOps developer. I'm focused in improve my skills in Node.js, MongoDB, Terraform, Docker, Kubernetes and Pipelines CI/CD.
+Nowadays I work as a back-end developer and DevOps. I'm focused in improve my skills in Node.js, MongoDB, Terraform, Docker, Kubernetes and Pipelines CI/CD.
 
 <b>Stack:</b> Node.js - Terraform - AWS - C# - Oracle PL/SQL.
 
